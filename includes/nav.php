@@ -33,7 +33,7 @@
             </div>
         </div>
 
-        <a href="/cart" class="cart-popup__cta-link btn btn--secondary-accent" aria-describedby="a11y-external-message">
+        <a href="/products/cart.php" class="cart-popup__cta-link btn btn--secondary-accent" aria-describedby="a11y-external-message">
             View cart (<span data-cart-popup-cart-quantity=""></span>)
         </a>
 
@@ -253,7 +253,7 @@
 
 
 
-                        <a href="/cart" class="site-header__icon site-header__cart"
+                        <a href="/products/cart.php" class="site-header__icon site-header__cart"
                             aria-describedby="a11y-external-message">
                             <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-cart"
                                 viewBox="0 0 37 40">
